@@ -1,1 +1,1 @@
-# TensorFlow Lite Python object detection example with Raspberry Pi
+IOT Based Plant Monitoring with TensorFlow-lite object detection model
